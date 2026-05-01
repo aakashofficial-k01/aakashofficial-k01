@@ -1,33 +1,41 @@
-# Aakash - Data Enthusiast
+# Aakash K | Software Development Engineer - Data
 
-### 👋Hi, Welcome to my GitHub profile!
+### 👋 Hi, I'm Aakash
+I am a **Data Engineer** with 3+ years of experience building scalable data pipelines and data products. Currently at **Meesho**, I focus on developing high-throughput batch and real-time processing workflows that power delivery analytics and machine learning at scale.
 
-I'm Aakash, a dedicated Data Engineer with 2 years of experience in creating and enhancing data pipelines and ETL processes. I specialize in Python, PySpark, SQL, and cloud technologies, focusing on providing actionable insights and automating workflows.
-
-## 🔧 Skills & Technologies
-- **Programming Languages:** Python, SQL
-- **Data Engineering:** Databricks, Apache Airflow, DBT, PySpark, ETL, Data Warehousing, Hive, Hadoop, Shell Scripting, Apache Kafka
-- **Cloud Platforms:** AWS, GCP, Azure
-- **Tools:** Docker, Git, CI/CD, Tableau, Kubernetes
+## 🔧 Technical Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, Java, Scala, SQL|
+| **Data Processing** | Apache Spark, Kafka, Flink, Hive, Batch & Real-time Streaming |
+| **Storage & Lakes** | Hudi, Iceberg, Delta Lake, BigQuery, Redshift, S3, GCS |
+| **Orchestration & Tools** | Airflow, dbt, Docker, Kubernetes, CI/CD |
+| **Data Modeling** | Analytical Data Modeling, ETL/ELT, Lakehouse Architectures |
 
 ## 🌟 Professional Experience
-### Data Engineer at Lumiq.ai
-- **Project:** 
-  - Designed and implemented an ETL pipeline for data ingestion from multipile data points, doubling weekly deliverables.
-  - Created multiple data models for getting insights from the data.
+### **Software Development Engineer - Data | Meesho**
+*Aug 2025 – Present*
+- Architecting scalable data pipelines for the **Delivery and Logistics** organization.
+- Optimizing infrastructure to meet strict **SLA commitments** for core business metrics.
+- Implementing data quality frameworks to ensure high-fidelity datasets for DS/ML use cases.
 
-## 📈 Projects
-- **Real-time score card(Apache Spark and Apache Kafka):** Performed real time ingestion, cleansing and transformations on the streaming dataset using Spark streaming and Spark SQL.
-- **Million Playlist model(Apache Spark and DBT):** Created Insightful Data Warehouse from multiple models, by efficiently using DBT and Sparkʼs parallel processing power.
+### **Data Engineer | Lumiq**
+*Jan 2023 – Aug 2025*
+- Designed ETL/ELT pipelines for large-scale data ingestion and transformation.
+- Developed analytical data models for high-performance query execution in cloud warehouses.
+- Built automated data quality validation checks, reducing downstream data errors.
+
+## 📈 Featured Projects
+- **Real-time Score Card (Spark & Kafka):** Developed a streaming ingestion and transformation engine for high-volume event data, providing real-time analytical insights.
+- **Million Playlist Model (Spark & dbt):** Architected a data warehouse from multiple source models using dbt and Spark’s parallel processing to handle massive scale efficiently.
+- **Distributed Pipeline Optimization:** Enhanced processing latency and resource utilization through memory optimization and efficient partition management.
 
 ## 🚀 Current Focus
-- 🌱 I’m currently learning machine learning techniques and big data processing with Apache Spark.
-- 👯 I’m looking to collaborate on innovative data engineering and data analytics projects.
-- 🤔 I’m looking for help with enhancing my skills in real-time data streaming and processing.
+- 🌱 **Advanced Streaming:** Deep-diving into Flink for low-latency stateful processing.
+- 🏗️ **Data Architecture:** Implementing Lakehouse patterns (Hudi/Iceberg) for ACID compliance on data lakes.
+- ⚙️ **Performance Tuning:** Mastering Spark catalyst optimization and skew mitigation.
 
 ## 🌐 Connect with Me
 - **Email:** [aakashofficialid@gmail.com](mailto:aakashofficialid@gmail.com)
-
-- **Projects & Profiles:**
-
-Feel free to explore my repositories and connect with me for collaboration or any inquiries!
+- **LinkedIn:** [Aakash K](https://www.linkedin.com/in/aakash-k-2b8324237/)
+- **Location:** Bengaluru, India
